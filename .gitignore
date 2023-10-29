@@ -1,0 +1,4 @@
+api-gateway/pgdb
+api-gateway/node_modules
+math/node_modules
+user/node_modules
